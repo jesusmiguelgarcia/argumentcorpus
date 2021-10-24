@@ -13,4 +13,8 @@ We performed the annotation of 444 sections with two instructors who have experi
 Download: https://ccc.inaoep.mx/~jesusmiguelgarcia/corpus_ext2018/corpus_eng.php
 
 
+Cite
+
+Jesús Miguel García-Gorrostieta, Aurelio López-López, Antonio Rico-Sulayes, Maya Carrillo, Argument corpus development and argument component classification: A study in academic Spanish, Digital Scholarship in the Humanities, Volume 36, Issue 2, June 2021, Pages 287–306, https://doi.org/10.1093/llc/fqaa020
+https://academic.oup.com/dsh/article-abstract/36/2/287/5847950
 
